@@ -95,6 +95,7 @@
                             <goal>report</goal>
                         </goals>
                     </execution>
+                    </hi>
                 </executions>
             </plugin>
 
